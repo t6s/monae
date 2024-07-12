@@ -1,6 +1,6 @@
 From HB Require Import structures.
 From mathcomp Require Import all_ssreflect classical_sets.
-Require Import monad_lib hierarchy.
+Require Import monad_lib hierarchy fail_lib.
 
 (* WIP
    references:
